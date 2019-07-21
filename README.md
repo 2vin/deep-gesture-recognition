@@ -17,7 +17,7 @@ We have open-sources this model with three supported gestures
 
 ## Results
 
-This model can detect three of the above mentioned gestures under varying pose, lighting and rotation. Have a look at how it perfomed on realtime camera feed.
+This model can detect three of the above mentioned gestures under varying pose, lighting and rotation. Have a look at how it performed on realtime camera feed.
 
 ![gesture Recognition](https://raw.githubusercontent.com/2vin/deep-gesture-recognition/master/data/gesture.gif "Results")
 
