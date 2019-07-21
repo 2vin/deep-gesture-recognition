@@ -12,9 +12,7 @@ This repo contains the code for detecting hand gestures using deep learning.
 ## Supported Gestures
 We have open-sources this model with three supported gestures
 
-Palm             |   OK                     |    ThumbUp
-:-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/2vin/deep-gesture-recognition/master/data/palm_gesture.jpg)  |  ![](https://raw.githubusercontent.com/2vin/deep-gesture-recognition/master/data/ok_gesture.jpeg)   |  ![](https://raw.githubusercontent.com/2vin/deep-gesture-recognition/master/data/thumb_gesture.jpeg)
+![](https://raw.githubusercontent.com/2vin/deep-gesture-recognition/master/data/palm_gesture.jpg "PALM")    ![](https://raw.githubusercontent.com/2vin/deep-gesture-recognition/master/data/ok_gesture.jpeg "OK")     ![](https://raw.githubusercontent.com/2vin/deep-gesture-recognition/master/data/thumb_gesture.jpeg "THUMB")
 
 
 ## Results
